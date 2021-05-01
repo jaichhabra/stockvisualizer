@@ -1,2 +1,2 @@
 # stockvisualizer
-Visualize the stock market trend of Yahoo
+Visualize the stock market trend of msft
